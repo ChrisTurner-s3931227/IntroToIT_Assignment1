@@ -1,0 +1,36 @@
+body {
+  /*background stuff */
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+h1 {
+  color: green;
+}
+
+.BgInfoTitle {
+    background-image: url("bg2.jpg");
+    text-align: center;
+    min-height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    opacity: 1;
+}
+
+.divContact {
+  text-align: center;
+  background-color: white;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+.divBackground {
+  background-color: white;
+  height: 400px;
+  text-align: center;
+  padding-top: 50px;
+}
