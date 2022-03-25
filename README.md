@@ -1,4 +1,5 @@
-### Hi there 👋
+Chris Turner / Christopher Michael Turner - s3931227
+Intro to IT: Assignment 1
 
 <!--
 **Sevgi-Z/sevgi-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
